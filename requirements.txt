@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+pandas
+numpy
+plotly
+streamlit
+seaborn
+=======
+pandas
+numpy
+plotly
+streamlit
+seaborn
+>>>>>>> 1506ec9540fdc34c4c339281eddabe62c7aa79c4
